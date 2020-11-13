@@ -14,6 +14,6 @@ In het het bestand  [index.html](index.html) houd je een overzicht bij van wat j
 **Dit overzicht zet je op je eigen Ma Cloud website en houd je up-to-date!**
 
 Plaats in deze readme een link naar het index bestand op je ma-cloud site.  
-**HIER de link plaatsen**
+**https://mediacollegeamsterdam-my.sharepoint.com/personal/32023_ma-web_nl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F32023%5Fma%2Dweb%5Fnl%2FDocuments%2FJavaScirpt**
 
 
